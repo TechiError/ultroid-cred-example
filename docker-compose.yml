@@ -1,0 +1,10 @@
+  
+version: "3.9"
+
+services:
+  ultroid:
+      build:
+        context: https://github.com/Teamultroid/ultroid.git#main
+      restart: on-failure
+      env_file:
+        - .env
