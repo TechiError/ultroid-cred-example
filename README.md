@@ -10,3 +10,9 @@ CREDS = the cloned repo of https://github.com/ProgrammingError/ultroid-cred-exam
 GHUSER = Ur github username
 GHPASS = Ur github password
 GHTOKEN = Ur Github Personal Access Token
+
+
+Go to your Wfs forked repo and go to actions tab and voila Enjoy xD
+
+
+Credits:- @ProgrammingError
