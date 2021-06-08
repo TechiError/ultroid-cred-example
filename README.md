@@ -1,7 +1,6 @@
-go to https://github.com/ProgrammingError/ultroid-wf (Ask me in Telegram to get access to this repo) and fork that repo
+go to https://github.com/ProgrammingError/ultroid-wf-example and fork that repo
 
-My telegram = ask in @TeamUltroid (U can find me there)
-
+My telegram = ask in https://t.me/ProgrammingError
 
 clone this repo and make it private
 
