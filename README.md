@@ -1,6 +1,4 @@
-go to https://github.com/TechiError/ultroid-wf-example and fork that repo
-
-My telegram = ask in https://t.me/ProgrammingError
+Go to https://github.com/TechiError/ultroid-wf-example and fork that repo
 
 clone this repo and make it private
 
@@ -14,5 +12,9 @@ GH_TOKEN = Ur Github Personal Access Token
 
 Go to your Wfs forked repo and go to actions tab and voila Enjoy xD
 
+Follow me on [Github](https://github.com/TechiError) Please    🥺
+👉👈
 
-Credits:- @ProgrammingError
+Credits:- @TechiError
+
+TG:- [Here](https://telegram.dog/ProgrammingError)
